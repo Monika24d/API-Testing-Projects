@@ -13,6 +13,7 @@ This repository contains a list of all the projects I have done in API Testing.T
 If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
 
 ## Templates
+- Test Plan
 - Test Cases
 - Test Reports
 - Test Metrics
