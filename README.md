@@ -29,7 +29,7 @@ Number conversion refers to the process of converting a numeric value to the wor
 
   ### Project 2-REST API
   Restfull Bookers
-  The RESTful Booker API is a powerful and flexible API for managing reservations and bookings. It provides developers with the tools to easily integrate booking functionality into their applications, websites, or services. 
+  The RESTful Booker API is a powerful and flexible API for managing reservations and bookings. It provides developers with the tools to easily integrate booking functionality into their applications, websites, or services. - Test Plan
 - Test Cases
 - Test Reports
 - Test Metrics
