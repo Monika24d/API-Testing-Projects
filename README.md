@@ -5,7 +5,7 @@ This repository contains a list of all the projects I have done in API Testing.T
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
 | Project 1 | Tested a API for number conversion by using SOAP | Post man, Test Cases | JIRA |
-| Project 2 | Tested a API for Restfull Bookers by using Rest | Post man, Test Cases | JIRA |
+| Project 2 | Tested a API for Restful-Bookers by using Rest | Post man, Test Cases | JIRA |
 
 
 ## Contributing
